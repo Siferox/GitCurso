@@ -1,3 +1,4 @@
 Este documento é apenas um teste da plataforma do GitHub.
 Estou testando como fazer as alterações e como funciona o Github.
 Agora, estou testando como editar o arquivo direto do Github, e, vou tentar baixar a atualização no meu local.
+Teste usando o Visual Studio Code;
