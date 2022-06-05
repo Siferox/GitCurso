@@ -7,3 +7,4 @@ Teste de VS Code 3;
 Teste 4
 Acho que agora peguei o jeito;
 Teste 5	
+Teste 6, via Zephirum;
