@@ -1,8 +1,8 @@
-Teste 1 - Este documento é apenas um teste da plataforma do GitHub.
-Teste 2 - Estou testando como fazer as alterações e como funciona o Github.
-Teste 3 - Agora, estou testando como editar o arquivo direto do Github, e, vou tentar baixar a atualização no meu local.
+Teste 1 - Este documento é apenas um teste da plataforma do GitHub;
+Teste 2 - Estou testando como fazer as alterações e como funciona o Github;
+Teste 3 - Agora, estou testando como editar o arquivo direto do Github, e, vou tentar baixar a atualização no meu local;
 Teste 4 - Usando o Visual Studio Code;
-Teste 5 - Pelo Visual Studio Code. O anterior não deu certo.
+Teste 5 - Pelo Visual Studio Code. O anterior não deu certo;
 Teste 6 - Via VS Code terceira tentativa;
 Teste 7 - Fora de ordem;
 Teste 8 - Acho que agora peguei o jeito;
