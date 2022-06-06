@@ -10,3 +10,4 @@ Teste 9 - Fora de ordem;
 Teste 10 - Via Zephirum;
 Teste 11 - Via Siferox;
 Teste 12 - Via git bash;
+Teste 13 - Não estou conseguindo fazer pull no local;
