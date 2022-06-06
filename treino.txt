@@ -1,12 +1,12 @@
-Este documento é apenas um teste da plataforma do GitHub.
-Estou testando como fazer as alterações e como funciona o Github.
-Agora, estou testando como editar o arquivo direto do Github, e, vou tentar baixar a atualização no meu local.
-Teste usando o Visual Studio Code;
-Teste 2 do Visual Studio Code. O anterior não deu certo.
-Teste de VS Code 3;
-Teste 4
-Acho que agora peguei o jeito;
-Teste 5	
-Teste 6, via Zephirum;
-Teste 7, via Siferox;
-Teste 8, via git bash
+Teste 1 - Este documento é apenas um teste da plataforma do GitHub.
+Teste 2 - Estou testando como fazer as alterações e como funciona o Github.
+Teste 3 - Agora, estou testando como editar o arquivo direto do Github, e, vou tentar baixar a atualização no meu local.
+Teste 4 - Usando o Visual Studio Code;
+Teste 5 - Pelo Visual Studio Code. O anterior não deu certo.
+Teste 6 - Via VS Code terceira tentativa;
+Teste 7 - Fora de ordem;
+Teste 8 - Acho que agora peguei o jeito;
+Teste 9 - Fora de ordem;
+Teste 10 - Via Zephirum;
+Teste 11 - Via Siferox;
+Teste 12 - Via git bash;
