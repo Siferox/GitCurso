@@ -15,3 +15,4 @@ Teste 14 - Consegui fazer o pull local;
 Teste 15 - Testando pull request novamente
 Teste 16 - Teste de linha 16
 Teste 17 - Fazendo via local;
+Teste de Merge
