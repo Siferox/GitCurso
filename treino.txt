@@ -20,4 +20,11 @@ Teste de merge 2
 Teste de merge 3
 Teste do CodeSandBox
 Teste do goormide
+<<<<<<< HEAD
 Foi refeito o container no goormIDE
+=======
+Foi refeito o container no goormIDE
+Teste de goormide merge x
+Teste de goormide merge y
+Teste de goormide merge z
+>>>>>>> Projeto
