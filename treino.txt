@@ -30,3 +30,4 @@ ultima mudança antes do merge
 este documento está estável e agora que colocá-lo no main;
 Agora farei o merge
 Apenas testando a função de tags
+Vou colocar um tag para checar se ele grava mesmo o último shah
