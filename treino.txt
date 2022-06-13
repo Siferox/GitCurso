@@ -29,3 +29,4 @@ teste de trabalho
 ultima mudança antes do merge
 este documento está estável e agora que colocá-lo no main;
 Agora farei o merge
+Apenas testando a função de tags
