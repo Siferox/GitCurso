@@ -26,3 +26,5 @@ Teste de goormide merge y
 Teste de goormide merge z
 Teste de comando de tags
 teste de trabalho
+ultima mudança antes do merge
+este documento está estável e agora que colocá-lo no main;
