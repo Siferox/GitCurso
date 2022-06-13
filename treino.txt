@@ -24,3 +24,4 @@ Foi refeito o container no goormIDE
 Teste de goormide merge x
 Teste de goormide merge y
 Teste de goormide merge z
+Teste de comando de tags
