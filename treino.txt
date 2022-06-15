@@ -1,34 +1,5 @@
 Teste 1 - Este documento é apenas um teste da plataforma do GitHub;
 Teste 2 - Estou testando como fazer as alterações e como funciona o Github;
 Teste 3 - Agora, estou testando como editar o arquivo direto do Github, e, vou tentar baixar a atualização no meu local;
-Teste 4 - Usando o Visual Studio Code;
-Teste 5 - Pelo Visual Studio Code. O anterior não deu certo;
-Teste 6 - Via VS Code terceira tentativa;
-Teste 7 - Fora de ordem;
-Teste 8 - Acho que agora peguei o jeito;
-Teste 9 - Fora de ordem;
-Teste 10 - Via Zephirum;
-Teste 11 - Via Siferox;
-Teste 12 - Via git bash;
-Teste 13 - Não estou conseguindo fazer pull no local;
-Teste 14 - Consegui fazer o pull local;
-Teste 15 - Testando pull request novamente
-Teste 16 - Teste de linha 16
-Teste 17 - Fazendo via local;
-Teste de Merge
-Teste de merge 2
-Teste de merge 3
-Teste do CodeSandBox
-Teste do goormide
-Foi refeito o container no goormIDE
-Teste de goormide merge x
-Teste de goormide merge y
-Teste de goormide merge z
-Teste de comando de tags
-teste de trabalho
-ultima mudança antes do merge
-este documento está estável e agora que colocá-lo no main;
-Agora farei o merge
-Apenas testando a função de tags
-Vou colocar um tag para checar se ele grava mesmo o último shah
-Projeto para testar o comando 
+Teste 4 - Teste de stash com comentário
+Teste 5 - Testando comando de stash
