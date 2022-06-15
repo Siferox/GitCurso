@@ -3,3 +3,4 @@ Teste 2 - Estou testando como fazer as alterações e como funciona o Github;
 Teste 3 - Agora, estou testando como editar o arquivo direto do Github, e, vou tentar baixar a atualização no meu local;
 Teste 4 - Teste de stash com comentário
 Teste 5 - Testando comando de stash
+Novo merge!!!!
