@@ -1,2 +1,3 @@
 Teste 1 - Este documento é apenas um teste da plataforma do GitHub;
 Esqueci de colocar uma mudança nesta linha, então, vou usar git commit amend;
+Fazendo o teste de comando git fetch;
